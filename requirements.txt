@@ -2,4 +2,3 @@ skafossdk==1.0.0
 numpy
 tensorflow
 argparse
-time
