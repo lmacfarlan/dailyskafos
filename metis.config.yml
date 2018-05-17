@@ -1,0 +1,11 @@
+project_token: 5eb6b0d3364698281e941608
+name: dailyskafos
+jobs: 
+  - job_id: f895d983-0aaf-49e6-adbe-ad2a26d22291
+    language: python
+    name: Main
+    entrypoint: "sample.py"
+resources:
+  limits:
+    cpu: 4
+    memory: 8Gi
